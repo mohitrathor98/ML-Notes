@@ -33,10 +33,3 @@
 ```
 
 - Now we will use classification to predict the class for future data sets.
-
-Supervised Learning
----------------------
-
-- `Classification` - We will predict for any future set of data "class" is 'g'(1) or 'h'(0)
-- `Fetures` - All the values (cols) that we will use to predict an output. In this case, from ["fLength" to "fDist"]
-- `Labels` - The output that needs to be predicted using the features. In this case "class" col.
