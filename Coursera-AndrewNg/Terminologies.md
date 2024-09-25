@@ -9,3 +9,8 @@
 4. Single Training Example: `(x, y)`
 
 5. Specific Traning Example: `(x(i), y(i))` where i is the ith training example.
+
+6. Prediction: `y-hat`
+
+7. Model: `function f`
+
