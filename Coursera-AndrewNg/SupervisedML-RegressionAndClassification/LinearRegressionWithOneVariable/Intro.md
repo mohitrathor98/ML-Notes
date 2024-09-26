@@ -6,4 +6,4 @@
 
 - This is called Linear regression with one variable or Univariate Linear Regression.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)

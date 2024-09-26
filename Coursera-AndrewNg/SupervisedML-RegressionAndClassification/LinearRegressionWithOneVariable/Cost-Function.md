@@ -11,7 +11,7 @@
 
 - Our goal should be to minimize this cost function.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 #### Cost Function Intuition
@@ -23,9 +23,9 @@
 
 - Hence, our goal should be to minimize w and b to make minimal cost function.
 
-    ![alt text](image-2.png)
+    ![alt text](images/image-2.png)
 
-    ![alt text](image-3.png)
+    ![alt text](images/image-3.png)
 
 
 
@@ -40,5 +40,5 @@
 
 - J(w, b) is minimum at the center of the contour plot b vs w.
 
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](images/image-4.png)
+![alt text](images/image-5.png)
