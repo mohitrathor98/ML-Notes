@@ -31,4 +31,18 @@
 
 ## Gradient Descent Intuition
 
-### 
+### Derivative Intuition
+
+- Let's check the behavior by taking b = 0 for better understanding.
+
+- The derivative d(J(w))/dw represents the slope of the graph J(w) vs w at the position of current w.
+
+- Now the gradient descent algorithm will subtract the derivative from w.
+
+- If the derivative or slope is positive, the w will decrease.
+
+- If the derivative or slope is negative, the w will increase.
+
+- As shown in the below graph, in either cases, J(w) decreases.
+
+![Derivative intuition](images/image-derivative.png)
