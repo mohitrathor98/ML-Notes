@@ -21,6 +21,7 @@
 - When we plot a graph of function where b is minimum, we get a J(w) vs w graph.
 - We see that value of cost function is minimum when value of w is minimum.
 
+
 - Hence, our goal should be to minimize w and b to make minimal cost function.
 
     ![alt text](images/image-2.png)
