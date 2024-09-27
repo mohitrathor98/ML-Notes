@@ -45,4 +45,19 @@
 
 - As shown in the below graph, in either cases, J(w) decreases.
 
+***Note***
+
+- If w or J(w) is already at a local minima, then w won't change because derivative part will be zero.
+
+
 ![Derivative intuition](images/image-derivative.png)
+
+
+### Learning Rate - Alpha
+
+- if learning rate is too small, gradient descent will be very slow.
+
+- if learning rate is too large, gradient descent may:
+
+    - Overshoot, i.e, never reaches minimum.
+    - Or Fail to converge or get diverged.
