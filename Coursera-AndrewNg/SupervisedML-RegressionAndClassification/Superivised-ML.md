@@ -6,7 +6,7 @@
 
     The correct label y for a given input x, and is by seeing correct pairs of input x and desired output label y that the learning algorithm eventually learns to take just the input alone without the output label and gives a reasonably accurate prediction or guess of the output.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 
 ### Types of Machine Learning
