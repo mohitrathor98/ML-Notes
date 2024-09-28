@@ -15,8 +15,8 @@
 4. Xj(i) = Value of feature j in ith training example
 
         For 2nd training set (i=2), X-vector(2) = [1416 3 2 40 50]
-        - for i=2 and j=4, i.e, for 4th feature of 2nd training set
-            X4(2) = 40
+        
+        for i=2 and j=4, i.e, for 4th feature of 2nd training set, X4(2) = 40
 
 
 #### Linear Regression With Multiple Feature Model
