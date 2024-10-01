@@ -1,5 +1,18 @@
 # Feature Scaling
 
+## When to Scale?
+
+- If any feature has very high or very low range of values then we want to scale.
+- We need data to be around [-1, 1] range. Else, we can scale.
+
+        Examples:
+        [0, 3] is ok
+        [-2, 0.5] is ok
+        [-100, 100] needs to be scaled.
+        [-0.0001, 0.0001] needs to be scaled.
+
+## Introduction
+
 - Suppose we are given a dataset of houses, where x1 is size in sq feet and x2 is number of bedrooms.
 - lets say x1 = 2000, x2 = 5. Expected output y = 500k dollars.
 
@@ -33,13 +46,13 @@
 
 
 
-### Mean Normalization Feature Scaling
+## Mean Normalization Feature Scaling
 
 - Another method to scale the data.
 - We scale our features, so that they are centered around zero. (Can have -ve or +ve values)
 
 #### Calculation of Mean Normalization
-
+    
         Ex: 300 <= X1 <= 2000  and  0 <= X2 <= 5
 
 - First, find average of the dataset for feature i (µᵢ)
@@ -47,3 +60,20 @@
 - Then, we normalize the feature using below formula
 
         [Xi = (Xi - µᵢ) / (max(Xi) - min(Xi))]
+
+
+## Z-Score Normalization
+
+- Need to calculate standard deviation of features.
+
+- Standard Deviation: Measures how far data points are from the mean in the dataset.
+
+#### Calculation of Z-score Normalization
+
+- Calculate mean of the feature:(µᵢ)
+
+- Calculate Standard Deviation: (σᵢ)
+
+- Scale using this formula
+
+        [Xᵢ = (Xᵢ-µᵢ) / σᵢ]
