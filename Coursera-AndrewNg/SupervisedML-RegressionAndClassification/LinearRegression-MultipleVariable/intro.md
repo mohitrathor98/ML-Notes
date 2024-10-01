@@ -30,3 +30,5 @@
         (wx +b) will become (Dot-Product(W, X) + b)
 
     ![alt text](images/model.png)
+
+### Gradient Descent Algorithm: [a relative link](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Gradient-Descent-Multi-Variable-LinearR.md)
