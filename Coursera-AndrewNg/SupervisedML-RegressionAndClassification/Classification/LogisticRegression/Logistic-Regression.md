@@ -35,3 +35,17 @@
 
 ![alt text](images/Logistic-Reg-Model.png)
 
+
+
+- We can interpret logistic regression model as probability model.
+
+- Example:
+
+        If Model is predicting if cancer is malignant(1) or not(0)
+        and timor size is X
+        and model predicts value 0.7
+        ==> This means that patient has 70% chance of cancer being malignant
+
+Which means
+
+    P(y=0) + P(y=1) = 1
