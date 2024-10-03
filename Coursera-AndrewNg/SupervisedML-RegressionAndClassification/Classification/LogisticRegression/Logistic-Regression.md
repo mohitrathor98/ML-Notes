@@ -1,0 +1,23 @@
+# Logistic Regression
+
+- In Logistic regression, we have a group of data to predict.
+- Or in case of binary, only two values to predict.
+
+- Logistic Regression does this using a S-Shaped curve.
+- Or also know as <em>Sigmoid Function</em>.
+
+- The Y-Value for this function, is always 0 or 1.
+
+## Sigmoid Function
+
+- Also known as Logistic function.
+
+- Always output between 0 and 1.
+
+        i.e., the function g(Z) = (0, 1)
+
+        and g(z) = 1/(1+e^-z) where e = 2.7
+
+- When z = 0, g(z) = 0.5
+
+![alt text](images/Sigmoid.png)
