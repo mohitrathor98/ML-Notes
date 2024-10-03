@@ -20,6 +20,10 @@
 
 - When z = 0, g(z) = 0.5
 
+- If z is large positive number, then g(z) tends to 1
+
+- If z is large negative number than g(z) tends to 0
+
 ![alt text](images/Sigmoid.png)
 
 
