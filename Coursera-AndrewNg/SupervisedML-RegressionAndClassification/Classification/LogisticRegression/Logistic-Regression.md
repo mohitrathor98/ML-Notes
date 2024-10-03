@@ -21,3 +21,17 @@
 - When z = 0, g(z) = 0.5
 
 ![alt text](images/Sigmoid.png)
+
+
+## Logistic Regression Model
+
+- In Logistic Regression Model, fw,b(x) = g(z), where
+
+        z = w.x + b
+        and Sigmoid function is g(z) = 1/(1+e^-z)
+
+        Hence,
+        fw,b(x) = g(w.x+b) = 1/(1+e^-(w.x+b))
+
+![alt text](images/Logistic-Reg-Model.png)
+
