@@ -14,6 +14,21 @@
 
         L = (1/2)*(Square of the given f(x) and predicted output)
 
-- Logistic loss function
+### Logistic loss function
+
+- Below logistic loss function is derived from statistics
+- Using a principle called <em>Maximum Likelihood Estimation</em>
+- It is an idea on how to efficiently find parameters for different model.
 
 ![alt text](images/Logistic-Loss.png)
+
+- The Loss function can also be re-written as
+
+![alt text](images/Logistic-Loss-2.png)
+
+
+### Cost Function
+
+- Putting the logistic loss function in the cost function
+
+![alt text](images/Logistic-Cost.png)
