@@ -56,4 +56,6 @@ Which means
 
 
 ## Cost Function: 
-[Relative path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-For-Logisitic-Reg.md)
+- Details: [Relative path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-For-Logisitic-Reg.md)
+
+- Script [Relative Path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/scripts/Cost-Function-Logistic-Reg.py)
