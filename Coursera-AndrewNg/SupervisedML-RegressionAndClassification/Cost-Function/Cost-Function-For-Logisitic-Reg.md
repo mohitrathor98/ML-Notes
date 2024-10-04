@@ -6,3 +6,14 @@
 
 ## Building Cost Function
 
+- Squared Error Cost Function is
+
+        J(w,b) = 1/m(∑ᵢ=₁ₜₒₙ(1/2)(fw,b(x(i))-y(i))^2)
+
+- We can write loss function 
+
+        L = (1/2)*(Square of the given f(x) and predicted output)
+
+- Logistic loss function
+
+![alt text](images/Logistic-Loss.png)
