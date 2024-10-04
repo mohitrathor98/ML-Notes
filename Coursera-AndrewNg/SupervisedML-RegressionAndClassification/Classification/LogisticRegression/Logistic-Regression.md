@@ -53,3 +53,7 @@
 Which means
 
     P(y=0) + P(y=1) = 1
+
+
+## Cost Function: 
+[Relative path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-For-Logisitic-Reg.md)
