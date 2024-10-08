@@ -64,3 +64,5 @@ Which means
 ## Gradient Descent
 
 - Details: [Relative Path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Gradient-Descent-Logistic-Reg.md)
+
+- Script [Relative Path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Scripts/Gradient-Descent-Logistic-Reg.py)
