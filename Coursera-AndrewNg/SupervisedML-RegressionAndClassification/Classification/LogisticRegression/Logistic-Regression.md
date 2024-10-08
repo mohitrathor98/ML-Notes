@@ -59,3 +59,8 @@ Which means
 - Details: [Relative path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-For-Logisitic-Reg.md)
 
 - Script [Relative Path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/scripts/Cost-Function-Logistic-Reg.py)
+
+
+## Gradient Descent
+
+- Details: [Relative Path](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Gradient-Descent-Logistic-Reg.md)
