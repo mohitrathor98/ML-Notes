@@ -4,4 +4,6 @@
 
 ![alt text](images/logistic-regression-function.png)
 
+![alt text](images/image-Logistic-Gradient-2.png)
+
 ![alt text](images/image-Logistic-Gradient.png)
