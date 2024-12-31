@@ -23,3 +23,9 @@
 4. [Feature Scaling](/Coursera-AndrewNg/Feature-Engineering/Feature-Scaling/Feature-Scaling.md)
 
 5. [Polynomial Regression](/Coursera-AndrewNg/Feature-Engineering/Polynomial-Regression/Polynomial-Regression.md)
+
+### Logistic Regression
+
+1. [Introduction](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Classification/Introduction.md)
+
+2. [Sigmoid function, Cost Function && Gradient Descent](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Classification/LogisticRegression/Logistic-Regression.md)
