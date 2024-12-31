@@ -19,4 +19,13 @@
 [More Information](/Coursera-AndrewNg/Feature-Engineering/Regularization/Overfitting-and-Underfitting.pdf)
 
 
+## Addressing Overfitting
+
 ![Addressing-Overfitting](images/image.png)
+
+
+[Cost Function with Regularization](/Coursera-AndrewNg/Feature-Engineering/Regularization/Cost-Function-With-Regularization.pdf)
+
+[Regularised Linear Regression](/Coursera-AndrewNg/Feature-Engineering/Regularization/Regularised-Linear-Regression.pdf)
+
+[Regularised Logistic Regression](/Coursera-AndrewNg/Feature-Engineering/Regularization/Regularised-Logistic-Regression.pdf)
