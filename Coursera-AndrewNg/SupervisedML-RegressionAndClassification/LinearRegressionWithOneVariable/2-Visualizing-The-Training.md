@@ -22,6 +22,6 @@
     f(x) = wx + b
 
 
-#### Cost Function: [a relative link](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-Linear-Reg-One-Variable.md)
+#### [Cost Function](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Cost-Function/Cost-Function-Linear-Reg-One-Variable.md)
 
-#### Gradient Descent: [a relative link](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Gradient-Descent-Univariate-Linear-Regression.md)
+#### [Gradient Descent](/Coursera-AndrewNg/SupervisedML-RegressionAndClassification/Gradient-Descent/Gradient-Descent-Univariate-Linear-Regression.md)
