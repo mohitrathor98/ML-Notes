@@ -19,3 +19,4 @@
 [More Information](/Coursera-AndrewNg/Feature-Engineering/Regularization/Overfitting-and-Underfitting.pdf)
 
 
+![Addressing-Overfitting](images/image.png)
