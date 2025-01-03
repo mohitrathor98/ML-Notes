@@ -36,3 +36,5 @@ Predict if the demand of T-Shirts are high or low based upon given features.
 -- The inputs can determine how much the t-shirts are Affordable, Awared and Quality.
 
 -- Hence, these factors can be one layer of the neural network model.
+
+![Multiple Input Neural Network Model](images/multiple-input-model.png)
