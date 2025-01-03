@@ -37,4 +37,6 @@ Predict if the demand of T-Shirts are high or low based upon given features.
 
 -- Hence, these factors can be one layer of the neural network model.
 
+-- Single Neuron layer will be output layer which takes activations of 1st layer as input and give probability as output.
+
 ![Multiple Input Neural Network Model](images/multiple-input-model.png)
