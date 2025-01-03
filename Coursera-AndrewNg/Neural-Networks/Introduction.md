@@ -19,3 +19,20 @@ Predict if the demand of T-Shirts are high or low based upon given features.
 
 -- Can be represented as a Single Neuron model which takes Price(X) as Input, computes using formula and outputs a.
 
+#### Find if the T-Shirts are top seller or not using multiple features.
+
+-- Inputs:<ol><li>Price</li> <li>Shipping Cost</li> 
+            <li>Marketing</li> <li>Material</li></ol>
+
+-- Output: Probability of the T-Shirt to be top seller
+
+-- Whether a t-shirt becomes top seller or not depends on few factors:
+    <ol>
+    <li>Affordability</li>
+    <li>Awareness</li>
+    <li>Perceived Quaity</li>
+    </ol>
+
+-- The inputs can determine how much the t-shirts are Affordable, Awared and Quality.
+
+-- Hence, these factors can be one layer of the neural network model.
