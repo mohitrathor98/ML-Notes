@@ -8,7 +8,8 @@ Below is comparision between a simple logistic regression imlementation and a ne
 
 #### Step-2
 - We provide loss function of our choice.
-- In this case, it is Binary Cross Entropy.
+- In this case, it is *Binary Cross Entropy*(Same as logistic loss function).
+- For Linear Regression, it can be *Mean Squared Error*.
 
 #### Step-3
 - We train our model for certain iterations to minimize loss.
